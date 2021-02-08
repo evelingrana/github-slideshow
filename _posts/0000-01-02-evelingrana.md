@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Something new!"
+title: "Something new! This is great'';"
 
 ---
 
